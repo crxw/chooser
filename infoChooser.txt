@@ -1,0 +1,19 @@
+Overview
+I want it to prompt the user for a number between 1 and 10.
+There will be two "correct" numbers (let's say 3 and 7) and if you enter them, the program will congratulate you.
+If not, it will tell you to try again.
+If we get this working, we could get more interesting and have the correct numbers randomly generate when the program
+starts so it's never the same two twice, then maybe give the user a limited number of guesses.
+
+
+TODOs
+Set correct numbers 3 and 7.
+Ask user, what number am I thinking of.
+If it's 3 or 7, congratulate them.
+Let them try again.
+
+
+
+Logs
+Thursday 14 August 2014 10:29 PM CST
+Created
