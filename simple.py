@@ -7,6 +7,7 @@
 
 __author__ = 'dalem'
 
+# TODO; make thinking_of two values randomly assigned on each execution.
 thinking_of = [3, 7]
 
 while True:
