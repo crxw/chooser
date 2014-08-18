@@ -8,13 +8,13 @@
 __author__ = 'dalem'
 
 # TODO; make thinking_of two values randomly assigned on each execution.
-arbitrary_change = [3, 5, 7]
+thinking_of = [3, 5, 7]
 
 while True:
     guess = input("What number am I thinking of between 1 and 10? ")
 
-    if guess in arbitrary_change:
-        print("Congratulations I was thinking of " + ''.join(str(e) for e in arbitrary_change))
+    if guess in thinking_of:
+        print("Congratulations I was thinking of " + ''.join(str(e) for e in thinking_of))
         break
     else:
         print("Nope, try again.")
